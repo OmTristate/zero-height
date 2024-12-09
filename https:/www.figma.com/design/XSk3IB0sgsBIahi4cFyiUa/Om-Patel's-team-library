@@ -1,0 +1,80 @@
+{
+  "Body": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "13px",
+      "fontFamily": "Work Sans",
+      "fontWeight": 400,
+      "lineHeight": 1.17,
+      "letterSpacing": "-0.3px"
+    }
+  },
+  "Body Base": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "16px",
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "lineHeight": 1.4,
+      "letterSpacing": "0px"
+    }
+  },
+  "Body Strong": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "16px",
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "lineHeight": 1.4,
+      "letterSpacing": "0px"
+    }
+  },
+  "Fuschia": {
+    "100": {
+      "$type": "color",
+      "$value": "#EF5DA8"
+    },
+    "60": {
+      "$type": "color",
+      "$value": "#FCDDEC"
+    },
+    "80": {
+      "$type": "color",
+      "$value": "#F178B6"
+    }
+  },
+  "Header 1": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "34px",
+      "fontFamily": "Work Sans",
+      "fontWeight": 700,
+      "lineHeight": 1.17,
+      "letterSpacing": "-0.7px"
+    }
+  },
+  "Header 2": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "20px",
+      "fontFamily": "Work Sans",
+      "fontWeight": 700,
+      "lineHeight": 1.17,
+      "letterSpacing": "-0.4px"
+    }
+  },
+  "Iris": {
+    "100": {
+      "$type": "color",
+      "$value": "#5D5FEF"
+    },
+    "60": {
+      "$type": "color",
+      "$value": "#A5A6F6"
+    },
+    "80": {
+      "$type": "color",
+      "$value": "#7879F1"
+    }
+  }
+}
